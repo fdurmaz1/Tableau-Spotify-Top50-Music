@@ -1,0 +1,464 @@
+Genre,Sub genre
+Pop,Pop
+Pop,Acoustic Pop
+Pop,Arab Pop
+Pop,Art Pop
+Pop,C-Pop
+Pop,Classify
+Pop,Dance Pop
+Pop,Electropop
+Pop,Escape Room
+Pop,Europop
+Pop,Hip Pop
+Pop,Hyperpop
+Pop,Indie Cafe Pop
+Pop,Indie Electropop
+Pop,Indie Pop
+Pop,Indie Poptimism
+Pop,J-Pop
+Pop,K-Pop
+Pop,Latin Pop
+Pop,Levenslied
+Pop,Metropopolis
+Pop,Mexican Pop
+Pop,Neo Mellow
+Pop,New Romantic
+Pop,New Wave Pop
+Pop,Pop Dance
+Pop,Pop Edm
+Pop,Pop R&B
+Pop,Pop Rap
+Pop,Pop Rock
+Pop,Post-Teen Pop
+Pop,Social Media Pop
+Pop,Soft Rock
+Pop,Sophisti-Pop
+Pop,Talent Show
+Pop,Teen Pop
+Pop,Turkish Pop
+Pop,Vapor Soul
+Pop,Viral Pop
+Pop,Vispop
+Dance/EDM,Edm
+Dance/EDM,Bass House
+Dance/EDM,Bass Trap
+Dance/EDM,Big Room
+Dance/EDM,Breakbeat
+Dance/EDM,Breakcore
+Dance/EDM,Brostep
+Dance/EDM,Chillstep
+Dance/EDM,Complextro
+Dance/EDM,Deep Big Room
+Dance/EDM,Deep Groove House
+Dance/EDM,Deep House
+Dance/EDM,Deep Tropical House
+Dance/EDM,Disco House
+Dance/EDM,Dubstep
+Dance/EDM,Electro House
+Dance/EDM,Electronic Trap
+Dance/EDM,Electropop
+Dance/EDM,Electro Swing
+Dance/EDM,Filthstep
+Dance/EDM,Future Bass
+Dance/EDM,Future Garage
+Dance/EDM,Future House
+Dance/EDM,Gaming Dubstep
+Dance/EDM,Gaming Edm
+Dance/EDM,Glitch Hop
+Dance/EDM,House
+Dance/EDM,Indie Electropop
+Dance/EDM,Melodic Dubstep
+Dance/EDM,Pop Dance
+Dance/EDM,Pop Edm
+Dance/EDM,Progressive Electro House
+Dance/EDM,Progressive House
+Dance/EDM,Progressive Trance
+Dance/EDM,Sky Room
+Dance/EDM,Tech House
+Dance/EDM,Trance
+Dance/EDM,Tropical House
+Dance/EDM,Uplifting Trance
+Dance/EDM,Vapor Soul
+Dance/EDM,Vapor Twitch
+Dance/EDM,Vocal House
+Hip-hop and rap,Hip Hop
+Hip-hop and rap,Rap
+Hip-hop and rap,Alternative Hip Hop
+Hip-hop and rap,Atl Hip Hop
+Hip-hop and rap,Atl Trap
+Hip-hop and rap,Bounce
+Hip-hop and rap,Chicago Rap
+Hip-hop and rap,Christian Hip Hop
+Hip-hop and rap,Conscious Hip Hop
+Hip-hop and rap,Country Rap
+Hip-hop and rap,Crunk
+Hip-hop and rap,Dirty South Rap
+Hip-hop and rap,East Coast Hip Hop
+Hip-hop and rap,Electro
+Hip-hop and rap,Gangster Rap
+Hip-hop and rap,G Funk
+Hip-hop and rap,Hardcore Hip Hop
+Hip-hop and rap,Hyphy
+Hip-hop and rap,Industrial Hip Hop
+Hip-hop and rap,Jazz Rap
+Hip-hop and rap,Melodic Rap
+Hip-hop and rap,Nerdcore
+Hip-hop and rap,Old School Hip Hop
+Hip-hop and rap,Pop Rap
+Hip-hop and rap,Queens Hip Hop
+Hip-hop and rap,Southern Hip Hop
+Hip-hop and rap,Trap
+Hip-hop and rap,Underground Hip Hop
+Hip-hop and rap,Vapor Trap
+Hip-hop and rap,West Coast Rap
+R&B,R&B
+R&B,Alternative R&B
+R&B,Disco
+R&B,Funk
+R&B,Gospel R&B
+R&B,Indie R&B
+R&B,Indie Soul
+R&B,Motown
+R&B,Neo R&B
+R&B,Neo Soul
+R&B,New Jack Swing
+R&B,Pop R&B
+R&B,Pop Soul
+R&B,Quiet Storm
+R&B,Soul
+R&B,Trap Soul
+R&B,Urban Contemporary
+Latin,Latin
+Latin,Bachata
+Latin,Bachata Dominicana
+Latin,Bolero
+Latin,Bossa Nova
+Latin,Chicha
+Latin,Colombian Pop
+Latin,Cumbia
+Latin,Dominican Pop
+Latin,Flamenco
+Latin,Huayno
+Latin,Latin Alternative
+Latin,Latin Arena Pop
+Latin,Latin Hip Hop
+Latin,Latin Jazz
+Latin,Latin Pop
+Latin,Latin Rock
+Latin,Mariachi
+Latin,Merengue
+Latin,Mexican Pop
+Latin,Neotango
+Latin,Nuevo Flamenco
+Latin,Perreo
+Latin,Pop Reggaeton
+Latin,Puerto Rican Pop
+Latin,Ranchera
+Latin,Reggaeton
+Latin,Reggaeton Colombiano
+Latin,Reggaeton Flow
+Latin,Rock En Espanol
+Latin,Salsa
+Latin,Spanish Pop
+Latin,Spanish Pop Rock
+Latin,Tango
+Latin,Tejano
+Latin,Timba
+Latin,Trap Latino
+Latin,Tropical
+Latin,Twoubadou
+Latin,Zouk
+Rock,Rock
+Rock,Acid Rock
+Rock,Album Rock
+Rock,Alternative Rock
+Rock,Art Rock
+Rock,Blues Rock
+Rock,British Invasion
+Rock,Britpop
+Rock,Classic Rock
+Rock,Dance-Punk
+Rock,Dance Rock
+Rock,Garage Rock
+Rock,Glam Rock
+Rock,Grunge
+Rock,Heartland Rock
+Rock,Indie Rock
+Rock,Math Rock
+Rock,Mellow Gold
+Rock,Metal
+Rock,Modern Alternative Rock
+Rock,Modern Blues Rock
+Rock,Modern Rock
+Rock,New Romantic
+Rock,New Wave
+Rock,Noise Rock
+Rock,Permanent Wave
+Rock,Post-Grunge
+Rock,Psychedelic Rock
+Rock,Rock-And-Roll
+Rock,Rockabilly
+Rock,Roots Rock
+Rock,Soft Rock
+Rock,Southern Rock
+Rock,Symphonic Rock
+Metal,Metal
+Metal,Alternative Metal
+Metal,Black Metal
+Metal,Brutal Death Metal
+Metal,Crossover Thrash
+Metal,Dark Black Metal
+Metal,Death Metal
+Metal,Doom Metal
+Metal,Folk Metal
+Metal,German Metal
+Metal,German Power Metal
+Metal,Glam Metal
+Metal,Gothic Metal
+Metal,Groove Metal
+Metal,Hard Rock
+Metal,Melodic Death Metal
+Metal,Melodic Metal
+Metal,Neo-Trad Metal
+Metal,Neo Classical Metal
+Metal,Nu Metal
+Metal,Nwothm
+Metal,Old School Thrash
+Metal,Power Metal
+Metal,Progressive Metal
+Metal,Speed Metal
+Metal,Swedish Metal
+Metal,Symphonic Black Metal
+Metal,Symphonic Metal
+Metal,Technical Death Metal
+Metal,Thrash Metal
+Metal,Us Power Metal
+Country,Country
+Country,Alberta Country
+Country,Alternative Country
+Country,Australian Country
+Country,Bakersfield Sound
+Country,Bluegrass
+Country,Bluegrass Gospel
+Country,Cajun
+Country,Classic Country Pop
+Country,Contemporary Country
+Country,Country Dawn
+Country,Country Gospel
+Country,Country Pop
+Country,Country Rap
+Country,Country Road
+Country,Country Rock
+Country,Cowboy Western
+Country,Cowpunk
+Country,Dansband
+Country,Honky Tonk
+Country,Kentucky Roots
+Country,Modern Country Rock
+Country,Nashville Sound
+Country,Neo-Traditional Bluegrass
+Country,Neo-Traditional Country
+Country,New Americana
+Country,Oklahoma Country
+Country,Outlaw Country
+Country,Progressive Bluegrass
+Country,Queer Country
+Country,Red Dirt
+Country,Sertanejo
+Country,Texas Country
+Country,Traditional Bluegrass
+Country,Traditional Country
+Country,Truck-Driving Country
+Country,Western Swing
+Country,Wyoming Roots
+Country,
+Country,Folk / Acoustic (also called Contemporary folk - wikipedia)
+Country,Folk
+Country,Acoustic Pop
+Country,American Folk Revival
+Country,Anti-Folk
+Country,Appalachian Folk
+Country,Contemporary Folk
+Country,Ectofolk
+Country,Folk Rock
+Country,Freak Folk
+Country,Indie Folk
+Country,Lilith
+Country,Medieval Folk
+Country,Melancholia
+Country,Mellow Gold
+Country,Modern Folk Rock
+Country,New Americana
+Country,Psychedelic Folk
+Country,Roots Rock
+Country,Singer-Songwriter
+Country,Stomp And Holler
+Country,Traditional Folk
+Classical,Classical
+Classical,Avant-Garde
+Classical,Baroque
+Classical,Chamber Ensemble
+Classical,Chamber Orchestra
+Classical,Choral
+Classical,Classical Cello
+Classical,Classical Era
+Classical,Classical Guitar
+Classical,Classical Piano
+Classical,Classical Soprano
+Classical,Compositional Ambient
+Classical,Contemporary Classical
+Classical,Early Modern Classical
+Classical,Early Music
+Classical,Early Music Choir
+Classical,Early Music Ensemble
+Classical,Early Romantic Era
+Classical,Historically Informed Performance
+Classical,Impressionism
+Classical,Italian Baroque
+Classical,Late Romantic Era
+Classical,Medieval
+Classical,Minimalism
+Classical,Neoclassicism
+Classical,Opera
+Classical,Orchestra
+Classical,Polyphony
+Classical,Post-Romantic Era
+Classical,Renaissance
+Classical,Serialism
+Classical,String Quartet
+Classical,Violin
+Jazz,Jazz
+Jazz,Acid Jazz
+Jazz,Avant-Garde Jazz
+Jazz,Bebop
+Jazz,Bossa Nova
+Jazz,Classical Jazz Fusion
+Jazz,Contemporary Jazz
+Jazz,Contemporary Post-Bop
+Jazz,Cool Jazz
+Jazz,Dixieland
+Jazz,Ecm-Style Jazz
+Jazz,Ethio-Jazz
+Jazz,Free Improvisation
+Jazz,Free Jazz
+Jazz,Gypsy Jazz
+Jazz,Hard Bop
+Jazz,Harlem Renaissance
+Jazz,Indie Jazz
+Jazz,Jazz Clarinet
+Jazz,Jazz Double Bass
+Jazz,Jazz Drums
+Jazz,Jazz Funk
+Jazz,Jazz Fusion
+Jazz,Jazz Guitar
+Jazz,Jazz Piano
+Jazz,Jazz Quartet
+Jazz,Jazz Saxophone
+Jazz,Jazz Trio
+Jazz,Jazz Trumpet
+Jazz,Jazz Vibraphone
+Jazz,Latin Jazz
+Jazz,Modern Jazz Piano
+Jazz,Ragtime
+Jazz,Samba-Jazz
+Jazz,Smooth Jazz
+Jazz,Soul Jazz
+Jazz,Spiritual Jazz
+Jazz,Straight-Ahead Jazz
+Jazz,Stride
+Jazz,Vintage Jazz
+Jazz,Vocal Jazz
+Blues,Blues
+Blues,Acoustic Blues
+Blues,Blues Rock
+Blues,British Blues
+Blues,Canadian Blues
+Blues,Chicago Blues
+Blues,Country Blues
+Blues,Delta Blues
+Blues,Electric Blues
+Blues,Gospel Blues
+Blues,Harmonica Blues
+Blues,Jazz Blues
+Blues,Jump Blues
+Blues,Louisiana Blues
+Blues,Memphis Blues
+Blues,Modern Blues
+Blues,New Orleans Blues
+Blues,Piano Blues
+Blues,Piedmont Blues
+Blues,Power Blues-Rock
+Blues,Pre-War Blues
+Blues,Punk Blues
+Blues,Rhythm And Blues
+Blues,Soul Blues
+Blues,Swamp Blues
+Blues,Texas Blues
+Blues,Traditional Blues
+Easy Listening,Easy Listening
+Easy Listening,Adult Standards
+Easy Listening,Ballroom
+Easy Listening,Big Band
+Easy Listening,Brill Building Pop
+Easy Listening,Soundtrack
+Easy Listening,Classic Soundtrack
+Easy Listening,Deep Adult Standards
+Easy Listening,Exotica
+Easy Listening,Hollywood
+Easy Listening,Light Music
+Easy Listening,Lounge
+Easy Listening,Movie Tunes
+Easy Listening,Romantico
+Easy Listening,Space Age Pop
+Easy Listening,Swing
+Easy Listening,Torch Song
+Easy Listening,Vocal Jazz
+New age,New Age
+New age,Ambient
+New age,Background Music
+New age,Background Piano
+New age,Bow Pop
+New age,Calming Instrumental
+New age,Classify
+New age,Fourth World
+New age,Healing
+New age,Meditation
+New age,Neo-Classical
+New age,Neoclassical Darkwave
+New age,New Age Piano
+New age,Operatic Pop
+New age,Relaxative
+New age,Sleep
+New age,World Meditation
+New age,
+New age,World / Traditional Folk (wikipedia)
+New age,Folkmusik
+New age,World
+New age,Afropop
+New age,Arab Folk
+New age,Canzone Genovese
+New age,Celtic
+New age,Celtic Harp
+New age,Corsican Folk
+New age,Desert Blues
+New age,Finnish Folk
+New age,Greek Folk
+New age,Greek Guitar
+New age,Griot
+New age,Irish Folk
+New age,Kundiman
+New age,Malian Blues
+New age,Mande Pop
+New age,Min'yo
+New age,Native American
+New age,Neo Kyma
+New age,Nordic Folk
+New age,Norwegian Folk
+New age,Rabindra Sangeet
+New age,Russian Folk
+New age,Scottish Folk
+New age,Shamanic
+New age,Sufi Chant
+New age,Swedish Fiddle
+New age,Tatar Folk
+New age,Yoik
